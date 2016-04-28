@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <extension key="nl.bosqom.report.activitycustom" type="module">
   <file>activitycustom</file>
-  <name>Custom Activity Report</name>
-  <description>Customize default activity report.</description>
+  <name>Activity Report Extra</name>
+  <description>Copy of the default activity report with extra fields.</description>
   <license>AGPL-3.0</license>
   <maintainer>
     <author>Jan-Derek</author>
