@@ -1,4 +1,5 @@
 <?php
+set_time_limit(0);
 
 /**
  * BOSW1604294 insite - activiteiten rapporten
